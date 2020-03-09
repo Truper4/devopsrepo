@@ -13,3 +13,5 @@ Testovací projekt pre akadémiu T-Systems Devops 2020
 ## README sa píše v [MARKDOWN formáte](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # TAK POĎME NA TO!
+
+#jahodka
